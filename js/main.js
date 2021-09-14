@@ -22,4 +22,5 @@ function fizzbuzz() {
     return result;
 }
 
+window.alert(fizzbuzz());
 console.log(fizzbuzz());
